@@ -1,0 +1,15 @@
+.title {
+    color: #cdcdcd;
+    background-color: blue;
+    line-height: 5rem;
+    display: block;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: lighter;
+}
+
+.par1 {
+    text-align: center;
+    margin: 0;
+    padding: 0 50px 0 50px;
+}
